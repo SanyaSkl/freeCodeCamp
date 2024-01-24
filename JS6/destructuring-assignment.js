@@ -9,4 +9,3 @@ const HIGH_TEMPERATURES = {
 const {today} = HIGH_TEMPERATURES;
 const {tomorrow} = HIGH_TEMPERATURES;
 
-// Only change code above this line
